@@ -1,0 +1,25 @@
+# Bot token generated in the Discord app portal
+bot_token: ABC123
+
+# Command prefix to trigger the bot via chat (default: '!')
+# Some special characters (like the exclamation point) need to be contained within quotes.
+bot_prefix: '!'
+
+# Name of the bot (default: disbot)
+# This should be lower case.
+bot_name: disbot
+
+# Discord status of the bot (default: Roblox)
+bot_status: Roblox
+
+# Embed color (default: A0522D)
+embed_color: A0522D
+
+# Discord user ID of the bot owner
+admin_id: 1234567890
+
+# Discord server ID bot resides in
+server_id: 0987654321
+
+# SQLite database name (default: disbot.db)
+db_name: disbot.db
