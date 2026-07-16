@@ -1,0 +1,9 @@
+*.gem
+*.log
+*.pid
+log/
+rdoc/
+tmp/
+.yardoc/
+.bundle/
+/vendor/bundle/
