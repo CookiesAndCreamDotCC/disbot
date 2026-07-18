@@ -3,6 +3,7 @@ DisBot 🤖
 
 [![Discord](https://img.shields.io/discord/1347049108665532519?style=plastic&label=Discord)](https://discord.cookiesandcream.cc/)
 
+### About
 This repository contains the source code for the bots that reside in the [Cookies & Cream Discord server](https://discord.cookiesandcream.cc/).
 
 ### Requirements
